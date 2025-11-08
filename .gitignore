@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# VS Code
+.vscode/
+.history/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Ollama / cache (if any local logs)
+*.log
+
+# Outputs you don't want to track (optional)
+outputs/processed/discover_normalized.jsonl
+outputs/processed/discover_insights.md
+outputs/charts/themes_bar_chart.py
