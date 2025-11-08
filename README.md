@@ -143,9 +143,3 @@ If encoding or backtick issues appear, the pipeline now cleans those automatical
 - Run from terminal with explicit `cd` into the project root
 
 ---
-
-## 🧩 Next Steps
-
-- Add embeddings back once Ollama updates CLI support (`ollama embed`).  
-- Extend the pipeline with sentiment charts, word clouds, or cross-case synthesis.  
-- Add a `spip` helper to automatically check Scoop before pip for new packages.
